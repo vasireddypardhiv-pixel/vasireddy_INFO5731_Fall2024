@@ -1,0 +1,1001 @@
+document_id,clean_text,sentiment
+1,find and verify leaked credentials in your source code,negative
+2,an infographics generator with 40 plugins and 300 options to display stats about your github account,neutral
+3,create read update delete merge validate and do more with yaml,neutral
+4,super linter is a ready to run collection of linters and code analyzers to help validate your source code,positive
+5,support amlogic rockchip and allwinner boxes,neutral
+6,runs the gosec security checker,neutral
+7,checkout a git repository at a particular version,neutral
+8,replaces lame commit messages with meaningful ai generated messages when you push to remote,neutral
+9,general purpose claude agent for github prs and issues can answer questions and implement code changes,negative
+10,executing remote ssh commands,neutral
+11,scan react codebases for security performance and correctness issues,negative
+12,generates a snake game from a github user contributions grid output the animation as gif or svg,neutral
+13,github action for creating github releases,neutral
+14,automated ai localization for dev teams,positive
+15,cache artifacts like dependencies and build outputs to improve workflow execution time,positive
+16,github actions for github pages deploy static files and publish your site easily static site generators friendly,positive
+17,build and push docker images with buildx,neutral
+18,build armbian linux,neutral
+19,run simple scripts using the github client,positive
+20,manage terraform collaboration,neutral
+21,automate deploying websites and more with this github action via ftp and ftps,positive
+22,setup a node js environment by adding problem matchers and optionally downloading and adding it to the path,negative
+23,this action will handle the deployment process of your project to github pages,neutral
+24,a code review action powered by chatgpt,neutral
+25,upload a build artifact that can be used by subsequent workflow steps,neutral
+26,are you an early or a night when are you most productive during the day let s check out in your readme,neutral
+27,run typos to check spelling in github actions,neutral
+28,drafts your next release notes as pull requests are merged into master,neutral
+29,run ansible lint,neutral
+30,generate python data models from schema definitions openapi json schema graphql and more,neutral
+31,converts jupyter notebooks and word docs into jekyll blog posts,neutral
+32,debug your github actions environment interactively by using ssh or a web shell,neutral
+33,generate profile summary cards and commit to default branch,neutral
+34,allows you to show your latest blog posts on your github profile or project readme,neutral
+35,github action for php,neutral
+36,execute your workflow steps only if relevant files are modified,neutral
+37,configures aws credentials for use in subsequent steps in a github action workflow,neutral
+38,runs wemake python styleguide as a github action,neutral
+39,support amlogic rockchip and allwinner boxes,neutral
+40,run various git history analyses with src d hercules,neutral
+41,creates a pull request for changes to your repository in the actions workspace,neutral
+42,get all added copied modified deleted renamed type changed unmerged and unknown files,neutral
+43,setup your runner with flutter environment,neutral
+44,install the latest version of cargo binstall tool,neutral
+45,automatically commits files which have been changed during the workflow run and push changes back to remote repository,positive
+46,combine all available linters to automatically validate your sources without configuration,positive
+47,automatically label new pull requests based on the paths of files being changed,positive
+48,reviews the staged files with a gpt model from openai,neutral
+49,automated releases based on conventional commits,positive
+50,jd is a utility for diffing and patching json and yaml values it also supports json merge patch and a subset of json patch,neutral
+51,set up a specific version of python and add the command line tools to the path,neutral
+52,ai based pr reviewer summarizer with chat capabilities,neutral
+53,scans a url for public javascript library vulnerabilities,negative
+54,automated localization infrastructure,positive
+55,set up a specific version of the java jdk and add the command line tools to the path,neutral
+56,invoke the gemini cli from a github action,neutral
+57,downloads installs and configures a google cloud sdk environment adds the gcloud cli command to the path,neutral
+58,run step ci workflows,neutral
+59,install mkosi,neutral
+60,download a build artifact that was previously uploaded in the workflow by the upload artifact action,neutral
+61,wakatime coding activity graph in your profile readme,neutral
+62,deploy your cloudflare projects from github using wrangler,neutral
+63,a github action that implements smart caching for rust cargo projects with sensible defaults,positive
+64,simon s improved layout engine,positive
+65,tooling for graphql compare schemas find breaking changes find similar types,neutral
+66,setup a persistent volume using zerofs backed by s3 compatible storage,neutral
+67,generates documentation for your swift project,neutral
+68,setup a go environment and add it to the path,neutral
+69,github action that uploads coverage reports for your repository to codecov io,neutral
+70,close issues and pull requests with no recent activity,negative
+71,creates github releases,neutral
+72,lost pixel integration,neutral
+73,busted,neutral
+74,generate profile 3d contributions,neutral
+75,sets up terraform cli in your github actions workflow,neutral
+76,compresses images for the web,neutral
+77,github actions for hugo setup hugo quickly and build your site fast hugo extended and hugo modules are supported,positive
+78,copy files and artifacts via ssh,neutral
+79,how to use scp command to transfer files folders in linux,neutral
+80,next generation shell ngs,neutral
+81,install the rust toolchain,neutral
+82,github action for running cypress end to end and component tests,neutral
+83,run ssh agent and load an ssh key to access other private repositories,neutral
+84,update a pinned gist to contain wakatime stats,neutral
+85,official golangci lint action with line attached annotations for found issues caching and parallel execution,negative
+86,github action to login against a docker registry,neutral
+87,bring your codebase alive,neutral
+88,github action to compile latex documents,neutral
+89,nodejs action for fast deployment with rsync ssh and remote script execution before after rsync,positive
+90,execute cfn nag scan against the code in the repository where the github action workflow is run,neutral
+91,ensure your pr title matches the conventional commits spec,neutral
+92,set up docker buildx,neutral
+93,post a message call a web api method start a slack workflow or run a slack cli command from github actions,neutral
+94,authenticate to google cloud from github actions via workload identity federation or service account keys,neutral
+95,a github action that creates an svg diagram of your repo,neutral
+96,automatically commit changes made in your workflow run directly to your repo,positive
+97,audit urls using lighthouse and test performance with lighthouse ci,neutral
+98,a github action for cargo machete,neutral
+99,pushing to github repository local changes,neutral
+100,scans container images for vulnerabilities with trivy,negative
+101,installs configures and starts an android emulator directly on hardware accelerated runners,neutral
+102,install pnpm package manager,neutral
+103,continuous benchmark using github pages as dash board for keeping performance,neutral
+104,this action will send a notification to slack,neutral
+105,create a repository dispatch event,neutral
+106,upload python distribution packages to pypi,neutral
+107,setup and run sherif an opinionated zero config linter for typescript javascript monorepos,positive
+108,hunt every endpoint in your code expose shadow apis map the attack surface,neutral
+109,used to build and publish net source set up a specific version of the net and authentication to private nuget repository,neutral
+110,displays test results from popular testing frameworks directly in github,neutral
+111,github action to extract metadata tags labels for docker,neutral
+112,sync a directory to an aws s3 repository,neutral
+113,docker image to export godot engine games templates for gitlab ci github actions deploy to gitlab github pages or itch io,neutral
+114,build unity projects for different platforms,neutral
+115,automated releases via semver and commit message conventions,positive
+116,find php syntax errors,negative
+117,deploy an app to heroku,neutral
+118,harden runner provides runtime security for github hosted and self hosted runners,neutral
+119,perform code reviews and comment on diffs using openai api,neutral
+120,publish build or manage your expo app with github actions,neutral
+121,sending a telegram message,neutral
+122,sending a telegram message,neutral
+123,github action for goreleaser a release automation tool for go projects,positive
+124,an action to upload a signed android release apk or aab to the google play store developer console,neutral
+125,this action will cancel any previous runs that are not completed for a given workflow,neutral
+126,download a prebuilt ruby and add it to the path in 5 seconds,neutral
+127,lint markdown files with rumdl,neutral
+128,wraps the firebase tools cli to enable common commands,neutral
+129,updates readme with the recent github activity of a user,neutral
+130,automatically merge pull requests that are ready,positive
+131,generate provenance attestations for build artifacts,neutral
+132,create or update an issue or pull request comment,negative
+133,a github action to deploy an artifact as a github pages site,neutral
+134,connect your github action workflow to tailscale,neutral
+135,bump and push git tag on merge,neutral
+136,greet new contributors when they create their first issue or open their first pull request,negative
+137,ldoc,neutral
+138,generate a breakout game svg from github contribution graph,neutral
+139,a github action that builds your release notes changelog fast easy and exactly the way you want,positive
+140,github action for automatic creation and registration aws ec2 instance as a github actions self hosted runner,neutral
+141,legitify github action,neutral
+142,download and extract an artifact associated with given workflow and commit or other criteria,neutral
+143,monitor your microsoft 365 tenant s security configuration using maester the powershell based test automation framework,positive
+144,installs the bencher cli for continuous benchmarking,neutral
+145,prevent the introduction of dependencies with known vulnerabilities,negative
+146,transform your github contribution graph into a space shooter game gif,neutral
+147,uses the git branch as the docker tag and pushes the container,neutral
+148,converts ide todo comments to github issues,negative
+149,a github action to deploy to firebase hosting,neutral
+150,automate the github release process with assets changelogs pre releases and more,positive
+151,github action for creating a github app installation access token,neutral
+152,registers an amazon ecs task definition and deploys it to an ecs service,neutral
+153,mobsfscan is a sast that can find insecure code patterns in your android and ios source code,neutral
+154,run commands in a linux container with a specific cpu architecture armv6 armv7 aarch64 s390x ppc64le,neutral
+155,this action make a deployment with github actions instead of vercel builder,neutral
+156,list of pre commit hooks to ensure the quality of your dbt projects,neutral
+157,publishes junit nunit xunit trx json test results on github for net dart java js jest mocha python scala,neutral
+158,creates xcframework bundles for the products in your swift package and uploads them as artifacts you can attach to a release,neutral
+159,bump and push git tag on merge,neutral
+160,collaborate on tweets just like you collaborate on code using pull requests,neutral
+161,github action for building and releasing electron apps,neutral
+162,set up your github actions workflow with a specific version of uv,neutral
+163,automatically rebases pr on rebase comment,positive
+164,upload files to a github release cross platform,neutral
+165,run flank from github actions,neutral
+166,mirror the organization repos between hub github gitee,neutral
+167,automatically generates documentation fabrication etc files for any kicad project,positive
+168,facilitates chatops by creating dispatch events for slash commands,neutral
+169,github action for semantic release,neutral
+170,automatically add issues and prs to github projects,neutral
+171,download install and setup bun to your path,neutral
+172,wraps the serverless frameork to enable common serverless commands,neutral
+173,install npm dependencies with caching,neutral
+174,fast easy publishing to npm,positive
+175,host a helm charts repo on github pages,neutral
+176,github action for gitee pages,neutral
+177,installs nix on github actions for the supported platforms linux and macos,neutral
+178,deploy a zip file to aws elastic beanstalk,neutral
+179,run cargo command,neutral
+180,a configurable github action to free up disk space on an ubuntu github actions runner,positive
+181,get compressed size differences for every pr,neutral
+182,pause a workflow and get user approval to continue,neutral
+183,deploy to the wordpress plugin repository,neutral
+184,you can notify slack of github actions,neutral
+185,run claude code in github actions workflows,neutral
+186,installs and configures poetry,neutral
+187,check your applications for vulnerabilties using snyk,neutral
+188,automatically exports your godot games,positive
+189,install ssh key in ssh,neutral
+190,install the rust toolchain,neutral
+191,github action for detecting and fixing linting errors,negative
+192,create comment on pull request if exists update that comment,neutral
+193,use this action to deploy a container or source code to google cloud run,neutral
+194,automatically generate update markdown content like a readme md,positive
+195,send an email to multiple recipients,neutral
+196,this action integrates chatgpt into your ci,neutral
+197,install qemu static binaries,neutral
+198,write a comment about every commit in a pull request every file diff and summarize pr,neutral
+199,execute flawfinder to scan source code for vulnerabilities,negative
+200,run a github action as a github app instead of using secrets github token or a personal access token,neutral
+201,install qt on your github actions workflows with just one simple action,positive
+202,track your code coverage in each pull request,neutral
+203,run pre commit,neutral
+204,build and release go binaries to github release assets,neutral
+205,run gitleaks on push and pull request events,neutral
+206,retry a step on failure or timeout,negative
+207,enabling branch deployments through issueops with github actions,neutral
+208,a github action that detects and automatically closes low quality and ai slop prs,positive
+209,are you an early or a night let s check out in gist,neutral
+210,stop saying you forgot to in code review,neutral
+211,skip duplicate workflow runs skip or ignore specific paths cancel outdated workflow runs,negative
+212,a github action to report out issue metrics,negative
+213,free no configuration nix cache cut ci time by 50 or more by caching to github actions cache,positive
+214,use doctl to manage your digitalocean resources,neutral
+215,authenticate to azure and run your azure cli or azure powershell based actions or scripts,neutral
+216,policy enforcement for your pipelines,neutral
+217,send test coverage data to coveralls io for analysis change tracking and notifications,neutral
+218,github action to deploy to github pages,neutral
+219,github action for running one or multiple lighthouse audits featuring pr comments slack notifications and more,neutral
+220,maximize the available disk space for your build job,neutral
+221,a github action that allows you to consume hashicorp vault secrets as secure environment variables,positive
+222,github action for creating a release on sentry,neutral
+223,useful to push files to another repository to be used for example via github pages,neutral
+224,github action to run self hosted renovate,neutral
+225,release npm package based on commit metadata,neutral
+226,the github action which powers data fetching for flat,neutral
+227,github action to create a env file with github secrets,neutral
+228,github action for installing development tools,neutral
+229,size limit action,neutral
+230,action to simplify using dev containers in github workflows,positive
+231,automatically approve pull requests,positive
+232,quickly check links in markdown html and text files,positive
+233,a composite action that prepares your static assets to be deployed to github pages,neutral
+234,blazing fast localhost crawling via the linkcheck tool,positive
+235,publish to cloudflare pages,neutral
+236,an action to run,neutral
+237,outputs a message to discord,neutral
+238,keep your fork up to date,neutral
+239,generate an ai response based on a provided prompt,neutral
+240,scan project dependencies for restrictive and incompatible licenses,neutral
+241,execute any script in a github issue comment,negative
+242,enhanced claude code action supporting authentication for claude pro max subscribers without api keys,positive
+243,github action that uploads artifacts to firebase app distribution,neutral
+244,,neutral
+245,sync current repository with remote,neutral
+246,set up a beam based ci environment supporting languages and tools such as erlang otp elixir gleam rebar3 and hex,neutral
+247,display test results summary in a github actions workflow,neutral
+248,deploying lambda code to an existing function,neutral
+249,set up conda package and environment manager with miniconda,neutral
+250,send arbitrary requests to github s rest api,neutral
+251,determines version of a repo based on git history,neutral
+252,github action for deploying code via rsync over ssh securely used by 5k workflows,neutral
+253,convert pydantic models into typescript definitions and ensure that your type definitions are in sync,neutral
+254,unauthorized access can be identified based on urls and roles credentials,neutral
+255,cache images created between main run and post run,neutral
+256,deletes package versions,neutral
+257,post commit comments from git memento notes or enforce note coverage in ci,neutral
+258,check if all links are valid in markdown files,neutral
+259,publish jdeploy bundles on github or npm,neutral
+260,deploy a pull request preview to github pages similar to vercel and netlify,neutral
+261,automate publishing rust build artifacts for github releases through github actions,positive
+262,report junit test results as annotations on github pull request junit,neutral
+263,a github action that easily helps you automatically manage issues,positive
+264,run specfy s stack analyser and send update to specfy api,neutral
+265,,neutral
+266,an action to sign an android release apk or aab,neutral
+267,github action for working painlessly with deployment statuses,neutral
+268,github action to print relevant stats about pull request reviewers,neutral
+269,configure microsoft visual c command line,neutral
+270,a tool to enforce swift style and conventions,neutral
+271,build push and run unikernel images with unikraft,neutral
+272,helps set up msbuild into path for later usage,positive
+273,build deploy a theme to your ghost site,neutral
+274,wait on a certain check to pass for commit,neutral
+275,add reviewers to pull requests when pull requests are opened,neutral
+276,comments a pull request with the provided message,neutral
+277,label a pr based on the amount of changes,neutral
+278,,neutral
+279,update your nix flake lock and send a pr,neutral
+280,generates a human readable test report from the xcode result bundle and shows it on github checks,neutral
+281,setup an msys2 environment,neutral
+282,trigger and chain github actions workflows with workflow dispatch events,neutral
+283,set up your github actions workflow with a specific version of xcode,neutral
+284,run playwright tests on github actions,neutral
+285,deploy your applications to deno deploy right from github actions,neutral
+286,an action to update a docker hub repository description from readme md,neutral
+287,github action to easily import a gpg key,positive
+288,create a kind kubernetes in docker cluster,neutral
+289,,neutral
+290,,neutral
+291,a github action to deploy the jekyll site conveniently for github pages,neutral
+292,automating code review using chatgpt with github actions integration on prs for code explanations,neutral
+293,scan your code with sonarqube server and cloud to detect issues in 30 languages formerly sonarqube and sonarcloud,negative
+294,run ossf scorecard checks and output results in sarif format,neutral
+295,a github action for serializing workflow runs,neutral
+296,scans the web application with the zap full scan,neutral
+297,sync leetcode submissions to github,neutral
+298,setup specific rust versions with caching pre configured it provides problem matchers for cargo and rustfmt issues,negative
+299,github action to sync files like workflows between repositories,neutral
+300,netlify deploy from github actions,neutral
+301,this action triggers a workflow in another repository and waits for the result,neutral
+302,publish your logseq graph,neutral
+303,automated version bump for npm packages,positive
+304,automatically merge dependabot prs when version comparison is within range,positive
+305,sharpen your code ship with confidence elevate your workflow with deepseek code review,neutral
+306,execute ansible playbook on selected hosts,neutral
+307,build ios project xcodeproj xcworkspace and export ipa with custom entitlements,neutral
+308,scans the web application with the zap baseline scan,neutral
+309,create pull request,neutral
+310,use registry to pull push cache for an image stages included,neutral
+311,scan your python code for security issues,negative
+312,run tests on a webpage via google s lighthouse tool,neutral
+313,a continuously resilient xcodebuild action the best xcodebuild action by far mxcl,positive
+314,github action for shellcheck,neutral
+315,sast dead code detection secrets scanning and pr gating for python typescript java and go,neutral
+316,github action that creates a new branch after assigning an issue,negative
+317,efficiently deploy a folder to neocities org,positive
+318,automate github project cards with any webhook event,positive
+319,scan commits for secrets and other issues,negative
+320,install apt based packages and cache them for future runs,neutral
+321,bump version tag commit and generates changelog with conventional commits,neutral
+322,inserts a container image uri into a container definition in an amazon ecs task definition json file creating a new file,neutral
+323,an action to handle the contributor license agreement cla and developer certificate of orgin dco,neutral
+324,run ci in freebsd for github actions,neutral
+325,use this action to deploy your function or update an existing cloud function,neutral
+326,build publish and view test reports on job summaries and pull requests,neutral
+327,copies secrets from the action s environment to many other repos,neutral
+328,no more manually deleting merged branches this lovely app does it for you,neutral
+329,an action for executing fastlane lanes,neutral
+330,an action shows timeline of a github action workflow in the run summary page,neutral
+331,deploy web apps containerized web apps to azure github com azure actions,neutral
+332,ai powered code review tool,neutral
+333,automatically adds labels to pull requests based on conventional commits works with github automated releases,positive
+334,lock closed issues pull requests and discussions after a period of inactivity,negative
+335,ai code review codeball approves pull requests that a human would have approved wait less for review save time and money,neutral
+336,setup deno by installing downloading and adding it to the path,neutral
+337,github actions for mdbook setup mdbook quickly and build your site fast,positive
+338,checks if your node js installation is vulnerable to known security vulnerabilities,negative
+339,github action to expose slug value of environment variables inside your github workflow,neutral
+340,build and cache nix packages using cachix binary caches to significantly reduce build times,neutral
+341,plan and apply terraform opentofu via pr automation using best practices for secure and scalable iac workflows,positive
+342,automatically runs prettier on all your changes,positive
+343,spell check code and commits,neutral
+344,builds a docker image and pushes to a private registry with support for multiple tags,neutral
+345,github action for building and uploading rust binary to github releases,neutral
+346,deploy game builds to steam using the steamsdk,neutral
+347,wraps the yarn cli to enable common yarn commands,neutral
+348,setup a swift environment on ubuntu or macos,neutral
+349,synchronises changes of the template repository,neutral
+350,convert pandoc input to vimdoc output,neutral
+351,publishes a logseq graph as a single page application spa,neutral
+352,automated build android app bundle and apk with github action,positive
+353,a full featured license tool to check and fix license headers and dependencies licenses,neutral
+354,automatically updates a target branch with new commits from an upstream repo great for forks or parallel projects,positive
+355,create badges via shields io endpoint for your readme md which may change with every commit,neutral
+356,extract information from about the dependency being updated by a dependabot generated pr,neutral
+357,detect and fail ci when dependencies in your lockfile lose npm provenance or trusted publisher status,negative
+358,create any http request,neutral
+359,wraps the flyctl cli tool to enable deploying and managing fly apps,neutral
+360,a collection of actions for building gradle projects as well as generating a dependency graph via dependency submission,neutral
+361,runs dotenv linter as a github action,neutral
+362,scan your projects with qodana on github docs,neutral
+363,make secrets from 1password connect available as environment variables in the next steps,neutral
+364,review your prs with a gpt model from azure open ai,neutral
+365,build and deploy your gatsby site to github pages,neutral
+366,publish from github actions using multi factor authentication,neutral
+367,creates a new issue using a template with front matter,negative
+368,run clippy and annotate the diff with errors and warnings,negative
+369,run checkov against terraform cloudformation infrastructure code as a pre packaged github action,neutral
+370,execute codebuild startbuild for the current repo,neutral
+371,runs a dastardly scan against a target site,neutral
+372,your one stop github action for seamless minecraft project publication across various platforms,positive
+373,github action to use docker buildx bake as a high level build command,neutral
+374,install the helm chart testing tool,neutral
+375,deploy to a kubernetes cluster including but not limited to azure kubernetes service aks clusters,neutral
+376,build and deploy a zola site to github pages,neutral
+377,install and run the tagpr,neutral
+378,create html report with analysis of commit statistics,neutral
+379,pulumi s github actions deploy apps and infrastructure to your cloud of choice using just your favorite language and github,neutral
+380,deploy file to your server use sftp ssh private key,neutral
+381,support amlogic rockchip and allwinner boxes,neutral
+382,power platform getting started with who am i,neutral
+383,publish new releases of your application to windows package manager easily,positive
+384,deploys a aws cloudformation stack,neutral
+385,deploy and promote a new service to google app engine,neutral
+386,deploy a static website to aws s3 and invalidate cloudfront distribution,neutral
+387,install foundry,neutral
+388,scan your project for ai agent security risks detects secrets misconfigurations and generates a tailored security config,negative
+389,deploys mkdocs site,neutral
+390,scan docker containers with grype for vulnerabilities,negative
+391,one stop solution for all your asyncapi specification needs in github actions,neutral
+392,mirror a repository to another repository on github gitlab bitbucket aws codecommit etc,neutral
+393,see cloud cost estimates for terraform in pull requests,neutral
+394,setup the android sdk tools and add them to the path,neutral
+395,migrate your migrations using geni,neutral
+396,install all the tools required for building and testing c c projects,neutral
+397,upload files or folders to gcs buckets,neutral
+398,build tasks for easy semantic versioning for projects using git and release management,positive
+399,gitartwork on users contribution graph,neutral
+400,imports a pkcs12 certificate and private key into a macos keychain,neutral
+401,install and configure jfrog cli,neutral
+402,workflow for displaying recent youtube videos as svg cards in your readme,neutral
+403,ai powered security scanning for ci cd pipelines with sarif output,neutral
+404,automatically labels your prs based on branch name patterns like feature or fix,positive
+405,wrapper around the github checks api,neutral
+406,action that runs hadolint dockerfile linting tool,neutral
+407,comments a pull request with the pytest code coverage badge and full report,neutral
+408,updates the code and configuration of aws lambda functions if the function does not exist a new one will be created,neutral
+409,run eslint with reviewdog on pull requests to improve code review experience,positive
+410,a github action that reads cobertura format code coverage files and outputs a text or markdown summary,neutral
+411,installs and caches php dependencies with composer accepting arguments to configure how and what to install,neutral
+412,actions for working with mise runtime manager,neutral
+413,post github actions ci status to discord,neutral
+414,add a comment to a pull request,neutral
+415,publish your vscode extension to the vs marketplace using vsce or the open vsx registry using ovsx with ease,neutral
+416,uploads an app to apple testflight,neutral
+417,deploy websites via sftp ssh rsync,neutral
+418,provide a vitest test coverage report as step summary and comment in pull requests,neutral
+419,get rid of all unused imports,neutral
+420,run vhs to render terminal videos,neutral
+421,finds potential accessibility gaps files github issues to track them and attempts to fix them with copilot,negative
+422,start a mongodb server on default port 27017 or a custom port,neutral
+423,create a retention policy for your ghcr hosted container images,neutral
+424,labels issues and pull requests if the author is a sponsor,negative
+425,run tests for any unity project,neutral
+426,run a command in a new container,neutral
+427,easily run a kubernetes cluster in your github action,positive
+428,github action to ensure the correctness of your codeowners file,neutral
+429,a composite action that prepares your astro site to be deployed to github pages,neutral
+430,github action to generate toc,neutral
+431,validate the presence or absence of certificate authorities in your container image,neutral
+432,run golangci lint with reviewdog on pull requests to improve code review experience,positive
+433,github action with all the components of the google cloud sdk,neutral
+434,github action to run commands on a remote server using ssh,neutral
+435,this action will automatically push empty commits to one of your github repos,positive
+436,get all of the files changed modified in a pull request or push s commits,neutral
+437,markdown translation into any other language powered by chatgpt,neutral
+438,the official trunk io github action,neutral
+439,the official github action for vale install manage and run vale with ease,neutral
+440,push a subdirectory as a branch to any git repo over ssh or to the local repo,neutral
+441,find an issue or pull request comment,negative
+442,github action to delete workflow runs in a repository,neutral
+443,a github action to run ruff an extremely fast python linter and code formatter,positive
+444,generate beautiful images for code blocks present in issues,neutral
+445,labels issues automatically based on their body,neutral
+446,detects whether a path or a combination of paths were changed in the previous commit,neutral
+447,retrieve github branch or tag information without the ref prefix,neutral
+448,this github action automatically reviews prs using google s gemini ai model,positive
+449,delete artifacts created within the workflow run,neutral
+450,install nix with the determinate nix installer see,neutral
+451,setup and optionally run vcpkg to build c c dependencies and cache them automatically,positive
+452,wrap the nx monorepo tool and execute tasks depending on the action context,neutral
+453,creates an sbom software bill of materials from your code and container images,neutral
+454,automatically publish new versions to npm,positive
+455,this action allows you to manage and synchronize localization resources with your crowdin project,neutral
+456,download and install the zig compiler and cache the global zig cache,neutral
+457,go test coverage is a tool designed to report issues when test coverage falls below a specified threshold,negative
+458,set up an ocaml and opam environment and add to path,neutral
+459,download release assets from private or public github repositories,neutral
+460,a github action to request dependabot enablement on eligible repositories in an organization,neutral
+461,the action for translating non english issues content to english,negative
+462,build a modules or standalone executable from python code using nuitka on mac linux windows very wide range of compatibility,neutral
+463,setup your runner with clojure build tools,neutral
+464,goreadme command line tool and github action,neutral
+465,convert todo comments into issues,negative
+466,the kubectl command line program as a github action,neutral
+467,sync github labels in the declarative way,neutral
+468,gets a github auth token for a github app installation,neutral
+469,download and setup the dart sdk,neutral
+470,run hyperlink link checker on a folder of static html,neutral
+471,github action to upload and scan files with virustotal,neutral
+472,creates action files for go code,neutral
+473,automate versioning releases and documentation for terraform modules in github monorepos,positive
+474,publish github releases from an action,neutral
+475,runs aws cdk via github actions,neutral
+476,removes all the cruft from a github actions runner to make the most space possible for nix,neutral
+477,find files that were modified during workflow execution,neutral
+478,builds the current package using standard pypa tooling keeps it as artifacts then performs checks on it,neutral
+479,a github action to enable pages extract various metadata about a site and configure some supported static site generators,neutral
+480,a github action that auto updates prs with changes from their destination branch,neutral
+481,set up a specific version of the graalvm jdk and add the command line tools to the path,neutral
+482,automatically fix formatting lint issues in pull requests,neutral
+483,publish code coverage to code climate,neutral
+484,runs the golang magic number detector,neutral
+485,easily compare gas reports generated by foundry,positive
+486,install and setup google chrome and chromium,neutral
+487,cross compile your rust projects with cross,neutral
+488,runs jenkinsfile in a pre packaged single shot master,neutral
+489,a github action that uses ai to generate a quiz based on a pull request,neutral
+490,builds documentation using sphinx,neutral
+491,this action runs your compose file s and clean up before action finished,positive
+492,notify slack of github actions workflows jobs and step status,neutral
+493,look for a trigger word in a pull request description or comment so that later steps can know whether or not to run,neutral
+494,pr,neutral
+495,creates a github deployment,neutral
+496,publish your browser extension anywhere using a single action,neutral
+497,build multiple versions of a binary with different cpu features set merged into one portable optimized binary,positive
+498,detect similarities between source code files,neutral
+499,deploy temporary apps from pull requests on fly io,neutral
+500,automatically test code changes in webpagetest and enforce performance budgets,positive
+501,installs nvidia cuda toolkit and adds it to path,neutral
+502,obtain a temporary access token for a github application when running in a github actions workflow,neutral
+503,flatpak applications builder,neutral
+504,a github action to run fully customizable k3s clusters during workflow provides an image registry and multi cluster support,neutral
+505,build pack publish a nuget package with dotnet core on project version change,neutral
+506,use the composer cli in your github actions,neutral
+507,bump homebrew formula after a new release,neutral
+508,capture screenshot of a website,neutral
+509,update the release notes with the latest changes right after a pr is merged,neutral
+510,outputs a message to slack,neutral
+511,publishes the jacoco report as a comment in the pull request,neutral
+512,publish your static files support oss cos qiniu aws s3 google storage,neutral
+513,a github action to identify stale repos within an organization,negative
+514,github action to copy a folder to a remote server using ssh,neutral
+515,run cmake with cmakepreset json to configure build package and test c c source code,neutral
+516,automation of contributors list in readme md,positive
+517,generate changelog based on your git history,neutral
+518,get the latest tag from git and outputs that for use in other actions,neutral
+519,deploy wordpress projects to a wp engine account using ssh gateway,neutral
+520,derives shas for base and head for use in nx affected commands optionally setting them as env variables for the current job,neutral
+521,scan claude code configurations for security issues,negative
+522,a github action that automatically format markdown files sync external docs src code make better docs,positive
+523,github action with kubernetes tools kubectl kustomize helm kubeval kubeaudit conftest jq yq go,neutral
+524,ephemeral preview deployments of your app for every pull request,neutral
+525,compiles latex documents using pdflatex lualatex xelatex full texlive distribution,neutral
+526,official github action for deploying apps to a dokku installation,neutral
+527,installs cosign and includes it in your path,neutral
+528,use php cs fixer via githubaction,neutral
+529,will update repo s labels based on data in json file located at repo github labels json,neutral
+530,github actions to get git diff,neutral
+531,sets up tflint cli in your github actions workflow,neutral
+532,plant trees within your development workflow with digitalhumani com,neutral
+533,format python code using black,neutral
+534,credsweeper checks files,neutral
+535,find a pr associated with the current commit,neutral
+536,used for pushing a copy of a file to another repository,neutral
+537,run macaron to analyze artifacts for supply chain security,neutral
+538,deploy your project to vercel using github actions supports pr previews and github deployments,neutral
+539,sets up turborepo remote caching to work with github actions built in cache no vercel account access tokens needed,neutral
+540,expose useful environment variables,neutral
+541,setup sccache action,neutral
+542,update a pinned gist to contain the latest tweets of a user,neutral
+543,make github rick roll innocent people,neutral
+544,monitor repositories for security vulnerability patches using claude ai,negative
+545,get secrets from google secret manager and make their results available as output variables,neutral
+546,github action for retrieving secrets from aws secrets manager,neutral
+547,gets your tryhackme badge and updates it on your readme,neutral
+548,create a github release with assets and changelog,neutral
+549,make an archive from specified files and directories as workflow action,neutral
+550,customisable github action to package your python code with pyinstaller for windows,neutral
+551,setup supabase cli supabase on github actions runners,neutral
+552,upload directory to s3,neutral
+553,send github actions workflow status notifications to slack,neutral
+554,github action assume aws roles using saml to,neutral
+555,github action to request temporary access tokens,neutral
+556,the github action allows uploading dapps or content to ipfs it supports ipfs pinata infura pinning services,neutral
+557,build a container image with or without a containerfile,neutral
+558,provides cross platform runner,neutral
+559,docker ros automatically builds development and deployment docker images for your ros based repositories,positive
+560,generate terraform module documentation in pull requests,neutral
+561,github action to install and run a custom maturin command,neutral
+562,ai powered code reviews that detect issues provide summaries and suggest auto fixes on prs,negative
+563,automatically approve and merge dependabot prs,positive
+564,check format or remove license headers,neutral
+565,uploads a file to a new release,neutral
+566,deploy function app to azure functions,neutral
+567,install a specific version of helm binary acceptable values are latest or any semantic version string like 1 15 0,neutral
+568,assign new labeled issue or pull request to a specific project dashboard column,negative
+569,run cargo audit and check for security advisories,neutral
+570,composite action to run commands within a qemu chrooted environment,neutral
+571,help manage cargo crate dependencies and validate licenses,positive
+572,a github action to run dart analyzer with annotation support,neutral
+573,a github action to open a pull request,neutral
+574,an action to create an issue using content from a file,negative
+575,this github action automatically builds the android apk under the artifact section,positive
+576,build and publish world of warcraft addons,neutral
+577,run mado to check markdown files,neutral
+578,a github action that manage git merge for any gitflow,neutral
+579,enforce lcov coverage thresholds,neutral
+580,github action to install any version of java graalvm java 8 java 11 java 14,neutral
+581,export image assets from figma to github,neutral
+582,mark issues as dependent on another,negative
+583,a github action to find and report dead broken links in files urls or sitemaps,negative
+584,keep your free server awake,positive
+585,runs tfsec and adds comments to the pr where checks have failed,neutral
+586,comments a pull request with the code coverage,neutral
+587,scan new issues and comments with github models ai prompts label or hide spam automatically,neutral
+588,enables private actions to be easily reused across repositories,positive
+589,install typst and add it to the path with package management,neutral
+590,turborepo remote cache server background process as action,neutral
+591,invalidate cloudfront distribution paths,neutral
+592,update the property of an existing yaml file,neutral
+593,a github action that speeds up compiling for c c projects using ccache,neutral
+594,build ios project xcodeproj xcworkspace export ipa optional upload to browserstack app live,neutral
+595,creates pdf and html files from markdown using the github or custom theme,neutral
+596,run remote ssh commands,neutral
+597,setup aws sam cli and add it to the path,neutral
+598,creates outputs variables of files modified added or removed by a pr or push,neutral
+599,automatically generate change log from your tags issues labels and pull requests on github,neutral
+600,run ros 2 package test in ci using github actions,neutral
+601,provides informative reports on team and developer metrics based on data from pull requests and code reviews,neutral
+602,hexo ci cd action for automating deployment,neutral
+603,sets up turborepo remote caching to work with github actions built in cache no vercel account access tokens needed,neutral
+604,scan salesforce flows for best practices security and performance issues,neutral
+605,deploys an application to azure static web apps,neutral
+606,issueops commands in github actions,neutral
+607,library easy frogorecyclerview based on recyclerview full and clear documentation have empty view books,positive
+608,action to check pr compliance on various aspects to improve maintainer qol,positive
+609,check links in markup files,neutral
+610,run dagger commands in github actions,neutral
+611,an action to build android kernel,neutral
+612,automate your github workflows using azure cli scripts,positive
+613,updates readme with your todoist stats,neutral
+614,build android gradle export apk or aab optional upload to play store optional upload to browserstack app live,neutral
+615,checks composer json for known vulnerabilities in your package dependencies,negative
+616,setup and execute terragrunt,neutral
+617,a github action to run the markdownlint cli2 tool for linting markdown commonmark files with the markdownlint library,neutral
+618,build a godot project for multiple platforms,neutral
+619,redflag leverages ai to determine high risk code changes run it in your ci pipelines to flag prs and add reviewers,negative
+620,a github workflow action to call a webhook with payload data from the event support for json or url encoded endpoints,neutral
+621,send an sms from github actions using twilio programmable sms,neutral
+622,creates a tag release on push generates release notes customizable with pull request labels,neutral
+623,caches gradle folder dependencies local build cache,neutral
+624,github action to manage labels on github,neutral
+625,get the current version of the npm package,neutral
+626,setup vim or neovim text editors on github actions,neutral
+627,download protoc compiler and add it to the path,neutral
+628,send a webhook event to anywhere,neutral
+629,generate my github status using github actions,neutral
+630,scan your code with sonarqube scanner to detect bugs vulnerabilities and code smells in more than 25 programming languages,negative
+631,please use mlugg setup zig instead,neutral
+632,wait for vercel deploy preview to complete requires to be run on pull request or push,neutral
+633,simple github action to parse markdown links into a yaml file for hugo,positive
+634,merge pull requests on a scheduled day,neutral
+635,github action for interacting with kubectl k8s,neutral
+636,a github action to install a specific version of hashicorp packer and add it to path,neutral
+637,publish getnighthawk assets,neutral
+638,install a specific emacs version for use in your workflow,neutral
+639,github action for checking that the test matrix jobs are all successful before proceeding to be used in branch protection,neutral
+640,preview website in surge sh for every pull request,neutral
+641,generate and update the changelog from conventional commits since latest tag or from a given tag range,neutral
+642,setup godot for headless use with macos windows and linux ci cd runners,neutral
+643,upgrade your readme with a fresh file of a web page,neutral
+644,action for mirroring a repository in another location bitbucket github gitlab using ssh,neutral
+645,block expensive kubernetes resource changes before they merge financial safety for your cluster,negative
+646,install a specific version of kubectl binary acceptable values are latest or any semantic version string like 1 15 0,neutral
+647,sets up opentofu cli in your github actions workflow,neutral
+648,export traces metrics and logs by injecting deeply into javascript docker shell and composite actions,neutral
+649,deploy application to digitalocean s app platform or update docr image in the digitalocean s app platform,neutral
+650,runs misspell fixer as a github action,neutral
+651,github action for cache efficient rust crates installation,positive
+652,automatically update a changelog with the latest release notes,positive
+653,test notebooks,neutral
+654,creates a docker image of your repository to view the collection of notebooks,neutral
+655,jest action adding checks and annotations to your pull requests and comment them with code coverage results,neutral
+656,run go benchmarks publish results to an interactive web app and check for performance regressions in your pull requests,neutral
+657,generates a markdown file with all repositories that have dependencies with the current github repository package s,neutral
+658,a github action that spell checks python markdown and text files using pyspelling,neutral
+659,discover and inventory ai llm components in your codebase,neutral
+660,run committed to check commit history,neutral
+661,run shellcheck and or shfmt on all shell script files and include commentaries there is a exclude parameter,neutral
+662,github action to install and run the marker linter for rust,neutral
+663,powershell tools for devops including a powershell wrapper for the github rest api,neutral
+664,create docker images and push into a ecr repository,neutral
+665,run cls3 in github actions,neutral
+666,a bot that helps you keeping your scala projects up to date,positive
+667,provides a composite action to install ufbt build and lint applications for flipper zero,positive
+668,publish your storybook to chromatic and run visual regression tests,neutral
+669,adds opinionated comments to a pr from terraform fmt init plan output,neutral
+670,returns the commit difference count between two git references,neutral
+671,setup a mysql database,neutral
+672,download task and add it to the path,neutral
+673,a github action to build and publish vuepress sites to github pages,neutral
+674,find and replace a string in your project files,neutral
+675,compare pr performance time memory against the default branch and comment results,neutral
+676,an action to build and publish python package to using poetry,neutral
+677,run your headless tests with xvfb,neutral
+678,quickly installs nix in unprivileged single user mode,positive
+679,check commit message compliance with conventional commits,neutral
+680,run security analyzers,neutral
+681,github action that check if code is formatted correctly using clang format,neutral
+682,reconfigure raspberry pi images with an easy docker like configuration file,positive
+683,compares the size of 2 apks,neutral
+684,automates automatic releases for semver compliant repositories,neutral
+685,an automation tool to publish your podcast from youtube to anchor fm,positive
+686,semver versioning based on the git history and commit messages of your repository,neutral
+687,a github action to report out contributors and contributions to a repository or organization,neutral
+688,a github action to automatically create hetzner cloud servers and register them as self hosted github actions runners,positive
+689,restore and save nix store using github actions cache to speed up workflows,neutral
+690,automatically update prs with outdated checks and squash and merge the ones matching all branch protections,neutral
+691,github action to get workflow conclusion,neutral
+692,immediately close and lock issues and pull requests,negative
+693,handle breaking changes from dependency upgrades,neutral
+694,installs pkgx to your github actions runner,neutral
+695,changelog ci is a github action that generates changelog then it is committed and or commented to the release pull request,neutral
+696,purge a zone s cache via the cloudflare api,neutral
+697,combine multiple prs into a single pr,neutral
+698,runs slither the solidity static analyzer,neutral
+699,add your recent activity to your profile readme,neutral
+700,creates a comment inside pull request with the human readable summary of the changes to the yarn lock file,neutral
+701,publish an aur package,neutral
+702,post the output of terraform plan to a pull request comment,neutral
+703,sync openapi swagger oas definitions and markdown documentation from your github repository to your readme developer hub,neutral
+704,install the just command runner,neutral
+705,a github action to enable auto merge on a pull request,neutral
+706,publish releases to itch io using butler,neutral
+707,automatically requests review of a pull request based on files changes and or groups the author belongs to,positive
+708,publish binaries when new releases are made,neutral
+709,validate quote publish and poll hcs 26 skill releases via registry broker,neutral
+710,a github action to suggest removal of non organization members from codeowners files,neutral
+711,github action to enforce pull request title conventions,neutral
+712,release your java application and publish artifacts,neutral
+713,wsl setup github action,neutral
+714,publish coverage report to a pr enforce coverage on new modified files,neutral
+715,download cache and add to path ffmpeg and ffprobe binaries,neutral
+716,action to register organization workflow,neutral
+717,set up a chroot based alpine linux environment and optionally qemu user emulator for non x86 architectures,neutral
+718,upload publish extensions to the chrome web store,neutral
+719,automatically closes issues opened by non stargazers,neutral
+720,push changes to tailscale and run acl tests in ci,neutral
+721,setup up a local cache proxy server for turborepo,neutral
+722,downloads and installs llvm and clang binaries,neutral
+723,suggest any code changes based on diff through github multi line code suggestions,neutral
+724,install and set up the arm none eabi gcc arm compiler,neutral
+725,publish diff coverage report as pr comment and create a coverage badge to display on the readme,neutral
+726,a github action that supports docker compose and docker swarm deployments,neutral
+727,,neutral
+728,deploy readme and asset updates to the wordpress plugin repository,neutral
+729,linting c c code with clang tidy or clang format to give feedback as comments pr reviews and more,neutral
+730,use clang format to see if your c c protobuf code is formatted according to project guidelines,neutral
+731,deploys a helm chart,neutral
+732,retries an github action step on failure,negative
+733,run postman collections via newman,neutral
+734,run golang commands,neutral
+735,deploy an application using capistrano to the given target,neutral
+736,deploy a database project dacpac or a sql script to azure sql database,neutral
+737,automate mirroring of git commits to or from a remote repository like gitlab bitbucket or another github repository,positive
+738,slack notification action,neutral
+739,get better merge control,positive
+740,send queries to github s graphql api,neutral
+741,github action for update a gist to contain your weekly top tracks on spotify,neutral
+742,deploy wordpress code to a server,neutral
+743,sending a discord message,neutral
+744,checks if the pr title follows contribution guidelines,neutral
+745,run govulncheck,neutral
+746,list vulnerabilities in images find better base images and upload an image sbom to docker scout,neutral
+747,runs docker image size limit as a github action,neutral
+748,generate github readme stats cards in github actions,neutral
+749,full and clear documentation,neutral
+750,cache docker images whether built or pulled,neutral
+751,deploy shopify theme with theme kit,neutral
+752,assign author to pull requests when the pull requests are opened,neutral
+753,drop in wrapper for anthropics claude code action v1 that can auto inject devops skills marketplace plugins,neutral
+754,creates nested github runners in a workflow,neutral
+755,updates the badges of your readme to show your current advent of code stats,neutral
+756,get the pr associated with the current commit,neutral
+757,setup a postgresql database,neutral
+758,generate awesome list from user starred repositories,positive
+759,run lighthouse ci on shopify themes directly from github,neutral
+760,keep your action versions up to date by automatically promoting a major version each time a minor release is created,positive
+761,creates an webpage which can be deployed as github page,neutral
+762,scan for and automatically fix security vulnerabilities in your codebase,neutral
+763,generate allure report with history,neutral
+764,wait for another github check to complete,neutral
+765,add labels to an issue or a pull request,negative
+766,installs cmake and ninja and caches them on cloud based github cache and or on the local github runner cache,neutral
+767,generate a github stats svg for your github profile readme in github actions,neutral
+768,back up your wakatime sync to your gist,neutral
+769,github action that installs and configures buildcache to accelerate compilation,positive
+770,queries the runner s public ip address,neutral
+771,github action to check for file existence,neutral
+772,run mcp tool evaluations,neutral
+773,this action will handle authenticated api requests allowing you to save the data from the request into your workspace,neutral
+774,run your phpunit tests in your github actions,neutral
+775,setup chromedriver,neutral
+776,setup the biome cli in github actions,neutral
+777,do not merge as an action,neutral
+778,sets up rust by installing a toolchain components targets with rustup and also cargo by installing bins and caching core,neutral
+779,downloads an asset from a github release,neutral
+780,this github action strong automatically creates a release notes strong when a milestone is closed,positive
+781,build and push docker images using kaniko,neutral
+782,perform actions when issues pull requests or discussions are labeled or unlabeled,negative
+783,prepare maven settings xml,neutral
+784,exports workflow run telemetry trace over oltp,neutral
+785,create rich code images for your docs,neutral
+786,run rubocop with reviewdog on pull requests to improve code review experience,positive
+787,pr lint for github actions,neutral
+788,generate ephemeral credentials for authenticating to google kubernetes engine gke and kubectl helm etc,neutral
+789,deploying your jekyll repo back to the gh pages branch of the same repository,neutral
+790,executes net dotnet tests within a github workflow and produces tests report,neutral
+791,a github action to push any new files back to master,neutral
+792,generate uml diagrams with plantuml server and push them to your repository,neutral
+793,detect shai hulud 2 0 npm supply chain attack 790 packages sha256 hashing runner backdoor detection,neutral
+794,install the micromamba package manager,neutral
+795,generate documentation on a commented project using doxygen,neutral
+796,automate mirroring of git commits to gitlab trigger gitlab ci and post results back to github,positive
+797,connect to openvpn server,neutral
+798,quick and simple method of deploying code to a webserver via rsync over ssh,positive
+799,test your app against real kubernetes,neutral
+800,block unauthorized outbound traffic egress in your github workflows,negative
+801,this github action exposes the zip command for use in building archiving,neutral
+802,push a container image to an image registry,neutral
+803,builds and deploys a collection to ansible galaxy,neutral
+804,run tflint with reviewdog on pull requests to enforce best practices,positive
+805,build your eleventy based static website,neutral
+806,automatically format java files using google java style,positive
+807,run ai powered workflows with 13 providers openai anthropic google aws azure and more,neutral
+808,run shellcheck with reviewdog on pull requests to improve code review experience,positive
+809,log the action s environment variables and event payload,neutral
+810,drop in github actions cache replacement with s3 backend,neutral
+811,print the github actions oidc claims,neutral
+812,run arbitrary commands in a texlive environment,neutral
+813,generate embeddings from your knowledge base to use with supabase vector,neutral
+814,generate a release for a precompiled gh extension,neutral
+815,jacoco coverage badges and pull request coverage checks in github actions,neutral
+816,download emsdk and optionally install a version of emscripten,neutral
+817,find and fix outgoing links,neutral
+818,transform and move code between repositories start with zero config and 100 customizable,positive
+819,automate copying your files via ftp using this github action,positive
+820,runs semantic release respects releaserc js in your repo exports version variables for you to use in subsequent actions,neutral
+821,a github action for publishing helm charts with github pages,neutral
+822,validate your html and css and check for broken links,negative
+823,a github action for tried and tired maintainers,neutral
+824,post go code coverage reports to pull requests,neutral
+825,split monorepo packages to many repositories,neutral
+826,setup a node js environment with volta,neutral
+827,an action to run ballerina cli commands,neutral
+828,use github actions to create a serverless service,neutral
+829,,neutral
+830,track rust bloat across builds,neutral
+831,this will run phpcs on prs,neutral
+832,runtime security solution for your ci cd pipeline,neutral
+833,setup fortran compiler and toolchain,neutral
+834,render kicad pcbs top bottom optionally render and gif or mp4 of the pcb rotating,neutral
+835,build push and release a docker container to heroku,neutral
+836,bump update a homebrew formula on new project release,neutral
+837,test your wordpress plugin with plugin check,neutral
+838,match a input text with a input regex,neutral
+839,a simple github action for producing jekyll build artifacts compatible with github pages,positive
+840,a font development toolkit and collaborative work flow,neutral
+841,scan your terraform code with tfsec,neutral
+842,github action to upon successful merge open a pull request to sync the updated branch back to one or more other branches,neutral
+843,annotates pull request diffs with warnings and errors from an eslint report json file,negative
+844,sets timezone in your locale,neutral
+845,security scanning with code pathfinder open source type aware sast with cross file dataflow analysis,neutral
+846,run semcheck to verify code implementation matches specification,neutral
+847,git checkout with lfs files from cache,neutral
+848,require labels to be added to a pull request before merging,neutral
+849,summarise differences between dependency versions when upgrading,neutral
+850,spell checker for code,neutral
+851,translate the readme to another language,neutral
+852,setup a nim environment and add it to the path,neutral
+853,send custom messages or upload files to discord webhooks with simple action inputs,positive
+854,validate yaml syntax,neutral
+855,github action for copying files to other repositories,neutral
+856,regular expressions made strangle simple,positive
+857,runs the custopizer tool,neutral
+858,runs xcodebuild e g to run tests,neutral
+859,sign your files with artifact signing,neutral
+860,load variables from env file,neutral
+861,start k3s cluster and run kubectl commands,neutral
+862,utility action that exports all github secrets to environment variables,neutral
+863,prow inspired github ci cd actions,neutral
+864,start a redis server,neutral
+865,ai based pr reviewer summarizer with chat capabilities,neutral
+866,byob custom badges based off of github actions,neutral
+867,install a specific rust toolchain and add it to the path,neutral
+868,test build deploy m2 projects,neutral
+869,multiple target zap scanning,neutral
+870,install system dependencies required to build ros and ros 2 packages,neutral
+871,wait for commit statuses to be either successful or failed,neutral
+872,estimate the energy of linux github actions runner vms via ml model,neutral
+873,automate your manual tasks with an issue bot,neutral
+874,collect and aggregate code coverage information with the mozilla grcov tool,neutral
+875,read and parse the changelog file of the project,neutral
+876,github action for working with aws eks including kubectl aws cli and aws iam authenticator,neutral
+877,builds code using pipescript,neutral
+878,github action,neutral
+879,all in one action to manage labels in prs and issues based on many extensible conditional rules,negative
+880,an action that allows you to check whether your npm package version has been updated,neutral
+881,automatically delete artifacts,positive
+882,simple smoke test framework for http applications,positive
+883,automatically revert a commit on revert comment,positive
+884,measures cohesion in your swift codebase,neutral
+885,scan dockerfiles for security issues misconfigurations and exposed credentials,negative
+886,github action to download the devcard from daily dev,neutral
+887,check the commit message against a regex pattern,neutral
+888,setup a julia environment and add it to the path,neutral
+889,creates github releases for your registered julia packages,neutral
+890,lint your files with spectral,neutral
+891,create a pull request review based on warnings from clang tidy,negative
+892,this action builds your firmware for esp32 directly in github using espressif esp idf docker image,neutral
+893,build python package with kivy buildozer,neutral
+894,validate agent configurations skills hooks mcp memory plugins,neutral
+895,set the context of a target kubernetes cluster and export the kubeconfig which is used by subsequent actions,neutral
+896,use this action to convert issues into a unified json structure,negative
+897,fast and flexible action to cherry pick commits from labeled pull requests,positive
+898,,neutral
+899,action to create a github wiki page based on provided markdown file,neutral
+900,a github action docker image for puppeteer the headful chrome node api so you can test chrome extensions,neutral
+901,generate an xml sitemap for a github pages site using github actions,neutral
+902,sync github issues to a notion database,negative
+903,make docs with doxygen then deploy the generated html to github pages,neutral
+904,upload files to google drive,neutral
+905,properly tags your github action,neutral
+906,this action allows you to create a blog from your markdown files and deploy to github pages,neutral
+907,run arbor graph native code impact analysis in github actions,neutral
+908,runs semgrep with all rules from semgrep rules manager,neutral
+909,calculate the next release version based on conventional commits since latest tag,neutral
+910,generates an iso for installing an ostree stored in a container image,neutral
+911,blog with jenny,neutral
+912,douban movie book music marked data sync to csv or notion action,neutral
+913,easily compare storage layout reports generated by foundry,positive
+914,notify your teams channel with a beautiful comprehensive deployment card,positive
+915,use phpstan via githubaction,neutral
+916,github action for automatically publishing maven packages,positive
+917,s3 actions cache with actions cache v2 passthrough,neutral
+918,github actions version updater updates github action versions in a repository and creates a pull request with the changes,neutral
+919,sets the git user and email to enable committing,neutral
+920,automatic health report for sysu,neutral
+921,install ballerina bal command,neutral
+922,sets up jdk builds the roq site and uploads the artifact to be used by a separate deploy step e g actions deploy pages,neutral
+923,a poc demo action to generate slsa build provenance for an artifact,neutral
+924,setup mdsf cli in github actions,neutral
+925,create a commit bumping the version of your project and creating a changelog file,neutral
+926,run misspell with reviewdog on pull requests to improve code review experience,positive
+927,deploy a docker app to an aws virtual machine ec2 with docker compose,neutral
+928,add a badges in your readme,neutral
+929,assign labels based on pull request change sizes,neutral
+930,push changes made by actions right back into the current repository,neutral
+931,run staticcheck on your go code,neutral
+932,set up your github actions workflow with a specific version of docker,neutral
+933,this helps sync ghas alerts to jira by creating an issue for each alert,neutral
+934,setup a perl environment and add it to the path,neutral
+935,a github action that lints your ruby or ruby on rails code with rubocop,neutral
+936,label a pull request based on pushed files,neutral
+937,allow cloning private repositories,neutral
+938,optimize code and docs with official ultralytics actions for syntax spelling and link checks,positive
+939,download build and install lua or luajit for use with scripts tests and more,neutral
+940,create a comment for a commit on github,neutral
+941,deploy docs from your source tree to the github wiki,neutral
+942,generates a pacman game from a github user contributions grid output the animation as svg,neutral
+943,builds a project using the ps4 payload sdk docker image,neutral
+944,install binaries from github releases,neutral
+945,github action build chain is a tool to build multiple projects from different repositories in a single action,neutral
+946,github action for installing executing argo cd cli,neutral
+947,github action to deploy sphinx documentation to github pages,neutral
+948,creates a branch,neutral
+949,microsoft teams notification for github actions,neutral
+950,publishes jacoco format coverage report in github actions as checksuite and enforces code coverage quality gate,neutral
+951,gets the head ref and sha of a pull request comment,neutral
+952,this github action will automatically add your github sponsors to your readme,positive
+953,,neutral
+954,push atom rss feed updates to bluesky via github actions,neutral
+955,deploy your static website on aliyun oss,neutral
+956,compare the bundle size between the base branch and the current branch,neutral
+957,advance security policy as code,neutral
+958,bump version when merging pull request with specific labels bump major bump minor bump patch,neutral
+959,check missing dangling meta files,negative
+960,triggering jenkins job through the api,neutral
+961,setup a lightweight kubernetes cluster with k3d k3s,positive
+962,push local workflow commit s to protected branches with required status checks,neutral
+963,comments a pull request or commit with the jest code coverage badge full report and tests summary,neutral
+964,creates coverage reports from tools like opencover dotcover visual studio ncover cobertura jacoco clover gcov or lcov,neutral
+965,run eslint on all changed files,neutral
+966,run jest on javascript files,neutral
+967,automate publishing go build artifacts for github releases,positive
+968,report github workflow events to apache skywalking,neutral
+969,action for zipping files and folders easily,positive
+970,github action to execute dependency check as part of a github workflow,neutral
+971,run actionlint with reviewdog,neutral
+972,admob helper for your android apps,neutral
+973,generate changelog according to conventional commits automatically when released,positive
+974,build manylinux wheels for a cython python package,neutral
+975,read file contents,neutral
+976,laravel pint is an opinionated php code style fixer for minimalists,neutral
+977,set up a specific version of pdm and uses a given python version to work on,neutral
+978,github action for creating github releases based on changelog,neutral
+979,github projectv2 project beta automation it supports management of status and custom fields,positive
+980,a github action docker image for puppeteer the headless chrome node api,neutral
+981,deploy your dns configuration to multiple providers,neutral
+982,wraps the vsce cli to be used in github actions,neutral
+983,compile latex files easily,positive
+984,helps find and remediate common security vulnerabilities in your django application,neutral
+985,github action that will create a pull request from the current branch,neutral
+986,deploy to gigalixir,neutral
+987,generate a wakatime activity bar graph to be used in the readme md or embedded in web page,neutral
+988,run ktlint with reviewdog on pull requests to enforce best practices,positive
+989,report surefire test results as annotations on github pull request junit failsafe,neutral
+990,aws codeguru reviewer action,neutral
+991,clean github workflow environment for lightweight build purpose,positive
+992,creates a github deployment status update,neutral
+993,gather rust code coverage information with tarpaulin,neutral
+994,checks pull requests for given labels,neutral
+995,deploy an orbit application,neutral
+996,connect to github actions vm via ssh for interactive debugging,neutral
+997,automatically create semver compliant tags or releases based on pr labels,positive
+998,supports pylint pycodestyle flake8 black mypy and isort,neutral
+999,a simple locking unlocking mechanism to provide mutual exclusion in github actions,positive
+1000,report npm package size on pull requests,neutral
